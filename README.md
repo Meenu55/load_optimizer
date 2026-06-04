@@ -19,9 +19,6 @@
 - [Frontend](#-frontend)
 - [Tech Stack](#-tech-stack)
 - [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## 🔍 Overview
